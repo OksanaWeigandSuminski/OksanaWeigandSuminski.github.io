@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="555.445" height="609.767" viewBox="0 0 555.445 609.767">
+  <g id="Group_114" data-name="Group 114" transform="translate(-381 -388.233)">
+    <g id="Group_33" data-name="Group 33">
+      <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(494 455)" fill="#f2f2f2" stroke="#52171f" stroke-width="2">
+        <rect width="375" height="543" stroke="none"/>
+        <rect x="1" y="1" width="373" height="541" fill="none"/>
+      </g>
+      <line id="Line_25" data-name="Line 25" x2="120" y2="120" transform="translate(747.5 456.5)" fill="none" stroke="#52171f" stroke-width="2"/>
+      <line id="Line_26" data-name="Line 26" x2="121" transform="translate(746.5 577.5)" fill="none" stroke="#52171f" stroke-width="2"/>
+      <line id="Line_27" data-name="Line 27" y2="123" transform="translate(746.5 455.5)" fill="none" stroke="#52171f" stroke-width="2"/>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="93" height="176" transform="translate(746.233 453.994) rotate(-45)" fill="#d5bb6d"/>
+    </g>
+    <path id="microsoft-office-word-logo-svg-vector" d="M266.374,0H0V266.375H266.374ZM36.626,66.594V86.572H49.944V206.439H93.231l33.3-59.239v59.239h39.957L226.419,86.572h13.318V239.736H26.637V26.637h213.1V66.594H179.8V86.572h9.989l-23.307,45.921v-65.9H119.868l-39.955,75.2V86.572H93.231V66.594Z" transform="translate(381 667.549)" fill="#52171f"/>
+  </g>
+</svg>

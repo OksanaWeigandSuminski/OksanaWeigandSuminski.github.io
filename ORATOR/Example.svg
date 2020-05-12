@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="511.5" height="123" viewBox="0 0 511.5 123">
+  <g id="Group_38" data-name="Group 38" transform="translate(-698.5 -461)">
+    <g id="Group_36" data-name="Group 36" transform="translate(106 -79)">
+      <g id="Path_10" data-name="Path 10" transform="translate(857.94 591)" fill="none">
+        <path d="M12,0H156a12,12,0,0,1,12,12V32a12,12,0,0,1-12,12H12A12,12,0,0,1,0,32V12A12,12,0,0,1,12,0Z" stroke="none"/>
+        <path d="M 12 1.999988555908203 C 6.485977172851562 1.999988555908203 2 6.485965728759766 2 11.9999885559082 L 2 31.9999885559082 C 2 37.51398849487305 6.485977172851562 41.99996566772461 12 41.99996566772461 L 155.9999084472656 41.99996566772461 C 161.5139465332031 41.99996566772461 165.9999237060547 37.51398849487305 165.9999237060547 31.9999885559082 L 165.9999237060547 11.9999885559082 C 165.9999237060547 6.485965728759766 161.5139465332031 1.999988555908203 155.9999084472656 1.999988555908203 L 12 1.999988555908203 M 12 -1.1444091796875e-05 L 155.9999084472656 -1.1444091796875e-05 C 162.6273193359375 -1.1444091796875e-05 167.9999237060547 5.372577667236328 167.9999237060547 11.9999885559082 L 167.9999237060547 31.9999885559082 C 167.9999237060547 38.62739562988281 162.6273193359375 43.99996566772461 155.9999084472656 43.99996566772461 L 12 43.99996566772461 C 5.372573852539062 43.99996566772461 0 38.62739562988281 0 31.9999885559082 L 0 11.9999885559082 C 0 5.372577667236328 5.372573852539062 -1.1444091796875e-05 12 -1.1444091796875e-05 Z" stroke="none" fill="#4e7259"/>
+      </g>
+      <text id="save" transform="translate(860.231 592.5)" fill="#52171f" stroke="#52171f" stroke-width="1" font-size="30" font-family="HelveticaNeue-Thin, Helvetica Neue" font-weight="200"><tspan x="53.84" y="29">save</tspan></text>
+      <g id="Group_34" data-name="Group 34" transform="translate(619 540)">
+        <g id="Rectangle_11" data-name="Rectangle 11" fill="#52171f" stroke="#707070" stroke-width="1">
+          <rect width="485" height="123" stroke="none"/>
+          <rect x="0.5" y="0.5" width="484" height="122" fill="none"/>
+        </g>
+      </g>
+      <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(649 572)" fill="#d5bb6d" stroke="#707070" stroke-width="1">
+        <rect width="424" height="60" stroke="none"/>
+        <rect x="0.5" y="0.5" width="423" height="59" fill="none"/>
+      </g>
+      <text id="for_example_um_uh_well_like_" data-name="for example um, uh, well, like…" transform="translate(593.5 553.5)" fill="#8a8c70" stroke="#8a8c70" stroke-width="1" font-size="50" font-family="Obviously-CondThin, Obviously" font-weight="200"><tspan x="65.6" y="65">for example um, uh, well, like…</tspan></text>
+    </g>
+  </g>
+</svg>
