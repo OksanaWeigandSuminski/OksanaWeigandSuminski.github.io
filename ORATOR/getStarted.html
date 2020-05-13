@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
+    <script src="https://unpkg.com/ml5@0.4.2/dist/ml5.min.js"></script>
+    
+    <script src="p5.speech.js"></script>
+    
+    <title>Get Started</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.typekit.net/ymj4bfm.css">
+    <style>
+     div.a {
+     text-align: center;
+     }
+</style>
+  
+</head>
+    <dody>
+        <a href="./index.html"><img src="logo.svg" alt="logo" style="width:300px;"></a>
+        
+    <a href="#profile" class="scroll-down">
+    </a>
+        
+        <div class="a">
+        <h3><span style="color: #4E7259;">GET STARTED</span></h3>
+            </div>
+<h6>Click mic to start/stop recording</h6>
+        <div id="mic"><img src="mic.svg" alt="mic" style="width:60px;">
+        </div>
+<div id="buttons">
+  <button id="record">record</button>
+  <button id="stop">stop</button>
+</div>
+        <script src="sketch.js"></script>
+        <div id="box">
+        <div class="a">
+        <div class="words" id = "notepad" style="position: absolute;left: 500px;
+top: 200px; border: 50px solid #52171F; z-index: 99";>
+             </div>
+        </div>
+        </div>
+        
+        <div>
+ <label for="input-file">Specify a file:</label><br>
+ <input type="file" id="input-file">
+</div>
+
+<textarea id="content-target"></textarea>
+        
+    </dody>
+</html>
